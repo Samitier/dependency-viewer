@@ -1,0 +1,11 @@
+.fileBox {
+  position: absolute;
+  user-select: none;
+  cursor: grab;
+  transition: box-shadow 0.3s;
+  z-index: 1;
+}
+
+.fileBox:hover {
+  box-shadow: 0 1px 8px var(--color-grey);
+}

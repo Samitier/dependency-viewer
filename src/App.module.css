@@ -1,0 +1,5 @@
+.mainContainer {
+  background-color: var(--bkg-color);
+  height: 100%;
+  position: relative;
+}
